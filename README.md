@@ -23,7 +23,7 @@ Zabbix ч1 - Симбирцев Андрей
 
 1. [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637#Code)
 
----
+
 
 ### Задание 1
 
@@ -37,13 +37,12 @@ Zabbix ч1 - Симбирцев Андрей
 Требования к результаты
 Прикрепите в файл README.md скриншот авторизации в админке.
 Приложите в файл README.md текст использованных команд в GitHub.
-```
 
 
 ### Решение 1
 
 
-![alt text](https://github.com/simbirtsevav/zabbix8.01/blob/main/img/1.png)
+![alt text](https://github.com/simbirtsevav/zabbix8.01/main/img/1.png)
 
 список команд:
 тот, что указан, на оф.сайте заббикса. только дополнительно еще установлен postgresql (sudo apt install postgresql) https://www.zabbix.com/download?zabbix=6.0&os_distribution=ubuntu&os_version=22.04&components=server_frontend_agent&db=pgsql&ws=apache
