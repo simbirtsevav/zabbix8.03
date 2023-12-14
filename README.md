@@ -42,7 +42,7 @@ Zabbix ч1 - Симбирцев Андрей
 ### Решение 1
 
 
-![alt text](https://github.com/simbirtsevav/zabbix8.03/main/img/1.png)
+![alt text](https://github.com/simbirtsevav/zabbix8.03/blob/main/img/1.png)
 
 список команд:
 тот, что указан, на оф.сайте заббикса. только дополнительно еще установлен postgresql (sudo apt install postgresql) https://www.zabbix.com/download?zabbix=6.0&os_distribution=ubuntu&os_version=22.04&components=server_frontend_agent&db=pgsql&ws=apache
